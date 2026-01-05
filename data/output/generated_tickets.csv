@@ -1,0 +1,14 @@
+ticket_id,title,category,priority,confidence,status,issues,source_id,source_type
+23f69b09-286c-4c33-9342-c7621d2900a7,[Bug] Critical - App crashes every time I try to open it after the ,Bug,Critical,1.0,Approved,,R001,app_store
+2905ebd1-b7d2-46bb-a85d-19cf86c2ad25,[Praise] User Feedback,Praise,Low,1.0,Approved,,R002,app_store
+aa841229-d373-40c1-8834-46a8836c0e76,[Feature] Add dark mode to the application,Feature Request,Low,0.9,Approved,,R003,app_store
+cfe971e2-9368-4a19-bcc0-68d95354c1ce,[Complaint] User Feedback,Complaint,Low,1.0,Approved,,R004,app_store
+b69b2154-eaeb-4c3c-98c8-fcacd9e2d2d6,[Feature] Integration with Google Calendar,Feature Request,Medium,1.0,Approved,,R005,app_store
+aafbefbb-cb1f-460f-a269-b5f40520d228,[Bug] Critical - Can't log in since the latest update. Keeps showin,Bug,Critical,0.95,Approved,,R006,app_store
+6fe8dc1b-ab75-45bc-8040-dc24296263e9,[Praise] User Feedback,Praise,Low,1.0,Approved,,R007,app_store
+eeff45d8-53ec-465b-bf89-083ce802418b,[Spam] User Feedback,Spam,Low,1.0,Approved,,R008,app_store
+2773aef0-70ae-4f27-8dd2-0330bdaf587e,[Bug] Critical - App Crash Report The app crashes on launch on my S,Bug,Critical,0.95,Approved,,E001,support_email
+0e19a775-5038-443f-8194-caf14e1a7ad4,[Feature] Dark Mode,Feature Request,Low,1.0,Approved,,E002,support_email
+0606d3c1-598a-4ebe-8642-9799b9740b28,[Bug] Critical - Login Issue Unable to login after recent update. E,Bug,Critical,1.0,Approved,,E003,support_email
+4db6d107-45ef-482c-8d2c-63e59dd85559,[Feature] Share tasks with family members,Feature Request,Medium,1.0,Approved,,E004,support_email
+7b19a29e-072b-4ef2-9626-3a1515878e58,[Bug] Critical - Data Loss Problem Lost all my tasks after syncing.,Bug,Critical,0.95,Approved,,E005,support_email

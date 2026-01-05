@@ -1,0 +1,6 @@
+email_id,subject,body,sender_email,timestamp,priority
+E001,"App Crash Report","The app crashes on launch on my Samsung S22 running Android 14. Reinstalled twice.",user1@gmail.com,2025-01-02 10:30,
+E002,"Feature Request: Dark Mode","Many users in my team prefer dark mode. Please consider adding this feature.",productivity_fan@company.com,2025-01-03 12:45,Medium
+E003,"Login Issue","Unable to login after recent update. Error code 401 appears repeatedly.",login_issue@yahoo.com,2025-01-04 09:15,High
+E004,"Suggestion for Improvement","It would be great if tasks could be shared with family members.",family_user@gmail.com,2025-01-05 16:00,
+E005,"Data Loss Problem","Lost all my tasks after syncing. Using iPhone 14, iOS 17.",critical_user@icloud.com,2025-01-06 08:20,High

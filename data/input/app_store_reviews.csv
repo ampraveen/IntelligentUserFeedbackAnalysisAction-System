@@ -1,0 +1,9 @@
+review_id,platform,rating,review_text,user_name,date,app_version
+R001,Google Play,1,"App crashes every time I try to open it after the last update.",rahul_92,2025-01-02,3.0.1
+R002,App Store,5,"Amazing app! Love the new focus mode feature.",megha_ios,2025-01-03,3.0.1
+R003,Google Play,3,"Please add dark mode. Using it at night strains my eyes.",arjun_k,2025-01-04,2.9.8
+R004,App Store,2,"The app is very slow and sometimes freezes during sync.",sneha_m,2025-01-05,3.0.0
+R005,Google Play,4,"Works well overall, but would love integration with Google Calendar.",vikram_p,2025-01-06,3.0.1
+R006,App Store,1,"Can't log in since the latest update. Keeps showing an error.",neha_ios,2025-01-07,3.0.1
+R007,Google Play,5,"Best productivity app I've used so far!",amit_works,2025-01-08,2.9.7
+R008,Google Play,1,"Buy followers fast!!! Visit myprofile.com $$$",spam_user,2025-01-09,3.0.1
